@@ -1,0 +1,10 @@
+DROP VIEW life_board;
+DROP VIEW next_life_board;
+DROP VIEW next_life_generation;
+DROP VIEW life_generation_state;
+DROP VIEW life_neighbors;
+DROP VIEW life_neighbor_deltas;
+DROP TABLE life_rules;
+DROP TABLE life;
+DROP TABLE life_configurations;
+DROP DOMAIN cell_action;
